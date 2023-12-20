@@ -1,5 +1,5 @@
-const Subsribe = () => {
+const Subscribe = () => {
   return <div>Subsribe</div>
 }
 
-export default Subsribe
+export default Subscribe

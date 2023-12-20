@@ -4,7 +4,7 @@ import CustomerReviews from "./CustomerReviews"
 import PopularProducts from "./PopularProducts"
 import Services from "./Services"
 import SpecialOffer from "./SpecialOffer"
-import Subsribe from "./Subscribe"
+import Subscribe from "./Subscribe"
 import SuperQuality from "./SuperQuality"
 
 export {
@@ -12,7 +12,7 @@ export {
   Hero,
   PopularProducts,
   Services,
-  Subsribe,
+  Subscribe,
   SuperQuality,
   SpecialOffer,
   CustomerReviews,
