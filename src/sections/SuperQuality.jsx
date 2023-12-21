@@ -6,16 +6,12 @@ const SuperQuality = () => {
     <>
       <section
         id="about-us"
-        className="flex justify-between items-center max-lg:flex-col gap-10"
+        className="flex justify-between items-center max-md:flex-col gap-10"
       >
         <div>
           <h1 className="z-10 font-palanquin text-4xl max-sm:text-[36px] max-sm:leading-[41px] font-bold">
-            We Provide You
-            <br />
-            <span className="text-coral-red inline-block">
-              {" "}
-              Super Quality
-            </span>{" "}
+            We Provide You{" "}
+            <span className="text-coral-red inline-block">Super Quality </span>{" "}
             Shoes
           </h1>
           <p className="font-montserrat text-slate-gray text-md max-sm:text-sm leading-8 mt-6 sm:max-w-lg">
@@ -36,7 +32,7 @@ const SuperQuality = () => {
             alt="Shoe img"
             width={570}
             height={522}
-            className="object-contain"
+            className="object-contain max-sm:w-[300px] max-sm:h-[280px]"
           />
         </div>
       </section>
