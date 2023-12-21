@@ -11,9 +11,9 @@ import {
 } from "./sections"
 
 const App = () => (
-  <main className="relative">
+  <main className="relative max-container">
     <Nav />
-    <section className="xl:padding-1 p-3">
+    <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />
     </section>
     <section className="padding">
