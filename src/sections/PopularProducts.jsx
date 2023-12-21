@@ -1,5 +1,4 @@
 import PopularProductCard from "../components/PopularProductCard"
-import ShoeCard from "../components/ShoeCard"
 import { products } from "../constants"
 
 const PopularProducts = () => {
