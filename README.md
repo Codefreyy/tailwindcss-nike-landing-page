@@ -8,37 +8,8 @@ This project is a static landing page for Nike, built using Tailwind CSS and Rea
 
 The project is deployed on Vercel. You can access the deployed version at the following link:
 
-[Live Demo](https://example.com](https://tailwindcss-nike-landing-page.vercel.app/))
+[Live Demo](https://tailwindcss-nike-landing-page.vercel.app/)
 
-## How to run
-
-To install and run the project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/Codefreyy/tailwindcss-nike-landing-page.git
-   ```
-
-2. Navigate to the project directory:
-
-   ````shell
-   cd tailwindcss-nike-landing-page
-   ```
-
-3. Install the dependencies:
-
-   ````shell
-   npm install
-   ```
-
-4. To start the development server and view the project locally, use the following command:
-
-```shell
-npm run start
-```
-
-The project will be available at `http://localhost:3000`.
 
 ## Contributing
 
